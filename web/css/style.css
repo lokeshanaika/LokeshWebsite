@@ -50,7 +50,7 @@ ul.nav.navbar li a {
     font-family: 'Text Me One', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{ 
-	color:#ec407a;
+	color:#0f0f0f;
 	background:transparent;
 	outline:none;
 } 
